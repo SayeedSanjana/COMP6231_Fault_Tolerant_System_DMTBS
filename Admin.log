@@ -1,0 +1,22 @@
+Mar 11, 2023 1:02:31 AM Client.Admin adminMethod
+INFO: {"Atwater":{"ATWA110323":8,"ATWA090323":8,"ATWA100323":8},"Outremont":{"OUTA280223":8,"OUTA250223":8,"OUTA240223":8,"OUTA190223":8}}
+Mar 21, 2023 2:04:04 PM Client.Admin adminMethod
+INFO: You can add movie for this week only
+Mar 21, 2023 2:12:12 PM Client.Admin adminMethod
+INFO: Deleted Succcessfully
+Mar 21, 2023 2:17:25 PM Client.Admin adminMethod
+INFO: Old Date- Cant Delete
+Mar 21, 2023 2:19:34 PM Client.Admin adminMethod
+INFO: Deleted Succcessfully
+Mar 21, 2023 2:27:01 PM Client.Admin adminMethod
+INFO: Old Date- Cant Delete
+Mar 22, 2023 2:25:08 PM Client.Admin adminMethod
+INFO: You can add movie for this week only
+Mar 22, 2023 2:28:35 PM Client.Admin adminMethod
+INFO: {"Atwater":{"ATWA250323":8,"ATWA230323":8},"Outremont":{"OUTA280223":8,"OUTA250223":8,"OUTA240223":8,"OUTA190223":8}}
+Mar 24, 2023 12:34:42 AM Client.Admin adminMethod
+INFO: {"Atwater":{"ATWE240323":8,"240323":12,"ATWM210323":7,"ATWA250223":8},"Outremont":{"OUTM160223":7,"OUTE150223":6,"OUTM090223":6}}
+Mar 24, 2023 12:55:47 AM Client.Admin adminMethod
+INFO: 
+Mar 24, 2023 1:03:07 AM Client.Admin adminMethod
+INFO: New slots added sucessfully for the existing movie

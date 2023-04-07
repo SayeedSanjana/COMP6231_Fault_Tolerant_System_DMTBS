@@ -1,0 +1,6 @@
+Mar 21, 2023 1:44:41 PM Client.Customer customerMethod
+INFO: Could sucessfully book ticket in verdun and cancel ticket in atwater
+Mar 21, 2023 9:25:16 PM Client.Customer customerMethod
+INFO: Could not sucessully exchange ticket with Verdun Server
+Mar 22, 2023 2:20:08 PM Client.Customer customerMethod
+INFO: Could sucessfully book ticket in verdun and cancel ticket in atwater
